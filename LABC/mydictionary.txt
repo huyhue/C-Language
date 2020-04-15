@@ -1,0 +1,2 @@
+house=Ngoi nha
+car=Xe o to

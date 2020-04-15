@@ -1,0 +1,28 @@
+1
+John Marker
+Jan-10-2000
+3.20
+2
+Adam Smith
+Mar-20-2020
+3.33
+3
+Van Thuan
+July-16-2000
+3.70
+45
+la ngoc
+27/3/2000
+8.00
+de140
+huy
+1/7/2000
+9.20
+huy
+gia
+huy
+4.00
+wq5
+loc
+7/8/9666
+9.00

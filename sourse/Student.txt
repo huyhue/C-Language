@@ -1,0 +1,12 @@
+1
+John Marker
+Jan-10-2000
+3.2
+2
+Adam Smith
+Mar-20-2020
+3.33
+3
+Van Thuan
+July-16-2000
+3.7
